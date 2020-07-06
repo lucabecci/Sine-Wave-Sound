@@ -1,5 +1,6 @@
 # Sine-Wave-Sound
 PLEASE USE CAUTION WHEN USING THE SLIDER FREQUENCY
+
 Sine wave sound in p5.js|| frequency = 100/1200|| established frequency = 440
 
 
